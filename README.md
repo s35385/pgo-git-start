@@ -3,4 +3,4 @@ git remote add origin [url] -> add remote repository
 git remote -v -> check if the origin adresses were added correctly
 git push -u origin main -> push commits to remote
 git branch -> list all branches
-git add Use git add to files to the staging area.
+git add -> use git add to files to the staging area
